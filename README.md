@@ -1,8 +1,10 @@
 # ebookfrpromptchatgpt
 E book en français pour maîtriser l'art du prompt dans ChatGPT
+
 **Ce que fait le projet**
 
-Ce livre électronique, intitulé "Révélation GPT : L'art et la science de l'ingénierie des prompts avec ChatGPT", explore la théorie et la pratique de l'ingénierie des prompts pour le modèle de langage génératif ChatGPT. Il couvre les principes fondamentaux, les techniques, les meilleures pratiques et même les stratégies avancées pour concevoir des prompts efficaces, avec des études de cas illustrant comment ils sont appliqués dans des contextes réels.
+Ce livre électronique, intitulé "Dialogues avec l'IA Maîtriser l'Art de l'Ingénierie des Prompts pour Optimiser ChatGPT 
+", explore la théorie et la pratique de l'ingénierie des prompts pour le modèle de langage génératif ChatGPT. Il couvre les principes fondamentaux, les techniques, les meilleures pratiques et même les stratégies avancées pour concevoir des prompts efficaces, avec des études de cas illustrant comment ils sont appliqués dans des contextes réels.
 
 **Pourquoi le projet est utile**
 
